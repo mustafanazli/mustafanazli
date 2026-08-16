@@ -22,29 +22,6 @@
 
 <br/>
 
-### 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,java,firebase,androidstudio,git,figma,xml&theme=dark"/>
-
-</div>
-
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mustafanazli&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&bg_color=141321"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafanazli&theme=radical&hide_border=true&background=141321"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafanazli&layout=compact&theme=radical&hide_border=true&bg_color=141321"/>
-
-</div>
-
-<br/>
-
 ### 📈 Contribution Snake
 
 <div align="center">
